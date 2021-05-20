@@ -1,0 +1,20 @@
+.button{
+    -fx-font-family: 'Blood Lust', Arial, sans-serif;
+    -fx-font-size: 60;
+    -fx-cursor: hand;
+}
+
+.button:hover{
+    -fx-font-size: 65;
+    -fx-text-fill: rgb(66, 230, 107);
+}
+
+.button.quit:hover{
+    -fx-font-size: 65;
+    -fx-text-fill: rgb(230, 66, 74);
+}
+
+.lblTitle{
+    -fx-font-family: 'Blood Lust', Arial, sans-serif;
+    -fx-font-size: 100;
+}
