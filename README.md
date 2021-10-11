@@ -1,4 +1,6 @@
 # Project-Khronos
 
+//Team project.
 
-// This is a Team project, developing a shooting game.
+This is the code for a top down arcade style shooter game with multiple maps, missions, weapons and
+enemy types.
